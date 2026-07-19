@@ -1,5 +1,5 @@
 {
-  "id": "vegas.reframe.auto",
+  "id": "com.hereliesaz.azphalt.auto-reframe",
   "version": "1.0.0",
   "name": "Smart Auto-Reframe",
   "description": "Keeps the primary action centered in a vertical frame using inverse motion vectors.",
