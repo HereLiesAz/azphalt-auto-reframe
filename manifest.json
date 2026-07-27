@@ -1,11 +1,13 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.auto-reframe",
-  "version": "1.0.0",
   "name": "Smart Auto-Reframe",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "LicenseRef-Proprietary",
+  "compat": ">=0.1",
   "description": "Keeps the primary action centered in a vertical frame using inverse motion vectors.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
